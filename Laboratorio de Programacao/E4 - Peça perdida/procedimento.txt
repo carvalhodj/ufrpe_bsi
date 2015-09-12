@@ -1,0 +1,8 @@
+ex5 - pecas perdidas 
+
+procedimento:
+ - soma a sequencia padrao, de 1 a n;
+ - soma a sequencia informada, que falta um numero;
+ - compara os resultados;
+ - se diferente, obter a diferença entre sequencia_padrao - sequencia_informada
+ - o resultado é o numero em falta.
